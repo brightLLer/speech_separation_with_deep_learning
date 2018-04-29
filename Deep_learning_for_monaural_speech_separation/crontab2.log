@@ -1,0 +1,416 @@
+5 batch/1 epoch, the cost of the batch: 928680.250
+10 batch/1 epoch, the cost of the batch: 692110.125
+15 batch/1 epoch, the cost of the batch: 523859.875
+20 batch/1 epoch, the cost of the batch: 413721.938
+25 batch/1 epoch, the cost of the batch: 317899.875
+30 batch/1 epoch, the cost of the batch: 255074.984
+35 batch/1 epoch, the cost of the batch: 189310.219
+40 batch/1 epoch, the cost of the batch: 124343.922
+45 batch/1 epoch, the cost of the batch: 84514.391
+50 batch/1 epoch, the cost of the batch: 53854.484
+55 batch/1 epoch, the cost of the batch: 12607.828
+60 batch/1 epoch, the cost of the batch: -8459.422
+65 batch/1 epoch, the cost of the batch: -32940.094
+70 batch/1 epoch, the cost of the batch: -46622.578
+75 batch/1 epoch, the cost of the batch: -70957.766
+80 batch/1 epoch, the cost of the batch: -83608.812
+85 batch/1 epoch, the cost of the batch: -100212.500
+90 batch/1 epoch, the cost of the batch: -115191.391
+95 batch/1 epoch, the cost of the batch: -131685.547
+100 batch/1 epoch, the cost of the batch: -142896.453
+105 batch/1 epoch, the cost of the batch: -153953.469
+110 batch/1 epoch, the cost of the batch: -160183.828
+115 batch/1 epoch, the cost of the batch: -166248.938
+cost after 1 epoch: 247.022
+val cost after 1 epoch: 59.398
+val SDR is 6.445, SIR is 9.319, SAR is 10.284
+5 batch/2 epoch, the cost of the batch: -179644.812
+10 batch/2 epoch, the cost of the batch: -184639.469
+15 batch/2 epoch, the cost of the batch: -190424.344
+20 batch/2 epoch, the cost of the batch: -195708.969
+25 batch/2 epoch, the cost of the batch: -202499.562
+30 batch/2 epoch, the cost of the batch: -205148.859
+35 batch/2 epoch, the cost of the batch: -209630.000
+40 batch/2 epoch, the cost of the batch: -214395.375
+45 batch/2 epoch, the cost of the batch: -219565.688
+50 batch/2 epoch, the cost of the batch: -219921.953
+55 batch/2 epoch, the cost of the batch: -227985.672
+60 batch/2 epoch, the cost of the batch: -226285.312
+65 batch/2 epoch, the cost of the batch: -233378.688
+70 batch/2 epoch, the cost of the batch: -229359.125
+75 batch/2 epoch, the cost of the batch: -240321.094
+80 batch/2 epoch, the cost of the batch: -237309.312
+85 batch/2 epoch, the cost of the batch: -245382.719
+90 batch/2 epoch, the cost of the batch: -247055.000
+95 batch/2 epoch, the cost of the batch: -254842.062
+100 batch/2 epoch, the cost of the batch: -257237.875
+105 batch/2 epoch, the cost of the batch: -259177.078
+110 batch/2 epoch, the cost of the batch: -260377.750
+115 batch/2 epoch, the cost of the batch: -260245.812
+cost after 2 epoch: -443.359
+val cost after 2 epoch: -44.438
+val SDR is 7.179, SIR is 10.576, SAR is 10.342
+5 batch/3 epoch, the cost of the batch: -267532.594
+10 batch/3 epoch, the cost of the batch: -268297.344
+15 batch/3 epoch, the cost of the batch: -268770.625
+20 batch/3 epoch, the cost of the batch: -271830.031
+25 batch/3 epoch, the cost of the batch: -275197.031
+30 batch/3 epoch, the cost of the batch: -274034.625
+35 batch/3 epoch, the cost of the batch: -276059.625
+40 batch/3 epoch, the cost of the batch: -275405.250
+45 batch/3 epoch, the cost of the batch: -279699.875
+50 batch/3 epoch, the cost of the batch: -277873.906
+55 batch/3 epoch, the cost of the batch: -283206.969
+60 batch/3 epoch, the cost of the batch: -279749.062
+65 batch/3 epoch, the cost of the batch: -284962.250
+70 batch/3 epoch, the cost of the batch: -279503.750
+75 batch/3 epoch, the cost of the batch: -288990.594
+80 batch/3 epoch, the cost of the batch: -284946.688
+85 batch/3 epoch, the cost of the batch: -292196.438
+90 batch/3 epoch, the cost of the batch: -288329.719
+95 batch/3 epoch, the cost of the batch: -296222.250
+100 batch/3 epoch, the cost of the batch: -297210.219
+105 batch/3 epoch, the cost of the batch: -297442.344
+110 batch/3 epoch, the cost of the batch: -299694.406
+115 batch/3 epoch, the cost of the batch: -297442.625
+cost after 3 epoch: -556.452
+val cost after 3 epoch: -85.481
+val SDR is 7.502, SIR is 11.041, SAR is 10.493
+5 batch/4 epoch, the cost of the batch: -302913.188
+10 batch/4 epoch, the cost of the batch: -304010.562
+15 batch/4 epoch, the cost of the batch: -303081.719
+20 batch/4 epoch, the cost of the batch: -304172.250
+25 batch/4 epoch, the cost of the batch: -308116.406
+30 batch/4 epoch, the cost of the batch: -306189.562
+35 batch/4 epoch, the cost of the batch: -308207.625
+40 batch/4 epoch, the cost of the batch: -305220.250
+45 batch/4 epoch, the cost of the batch: -309117.344
+50 batch/4 epoch, the cost of the batch: -307835.406
+55 batch/4 epoch, the cost of the batch: -311424.656
+60 batch/4 epoch, the cost of the batch: -307677.938
+65 batch/4 epoch, the cost of the batch: -312466.625
+70 batch/4 epoch, the cost of the batch: -305947.125
+75 batch/4 epoch, the cost of the batch: -314597.812
+80 batch/4 epoch, the cost of the batch: -309978.188
+85 batch/4 epoch, the cost of the batch: -317214.344
+90 batch/4 epoch, the cost of the batch: -313786.875
+95 batch/4 epoch, the cost of the batch: -321038.188
+100 batch/4 epoch, the cost of the batch: -320765.938
+105 batch/4 epoch, the cost of the batch: -318767.094
+110 batch/4 epoch, the cost of the batch: -320909.938
+115 batch/4 epoch, the cost of the batch: -319419.438
+cost after 4 epoch: -612.460
+val cost after 4 epoch: -109.901
+val SDR is 7.647, SIR is 11.307, SAR is 10.513
+5 batch/5 epoch, the cost of the batch: -323566.156
+10 batch/5 epoch, the cost of the batch: -323692.188
+15 batch/5 epoch, the cost of the batch: -322919.188
+20 batch/5 epoch, the cost of the batch: -323285.938
+25 batch/5 epoch, the cost of the batch: -327299.188
+30 batch/5 epoch, the cost of the batch: -325579.125
+35 batch/5 epoch, the cost of the batch: -328025.188
+40 batch/5 epoch, the cost of the batch: -323848.781
+45 batch/5 epoch, the cost of the batch: -327172.094
+50 batch/5 epoch, the cost of the batch: -325798.188
+55 batch/5 epoch, the cost of the batch: -329148.906
+60 batch/5 epoch, the cost of the batch: -324995.625
+65 batch/5 epoch, the cost of the batch: -330361.531
+70 batch/5 epoch, the cost of the batch: -323635.812
+75 batch/5 epoch, the cost of the batch: -331682.719
+80 batch/5 epoch, the cost of the batch: -323647.812
+85 batch/5 epoch, the cost of the batch: -332466.219
+90 batch/5 epoch, the cost of the batch: -327994.188
+95 batch/5 epoch, the cost of the batch: -335234.938
+100 batch/5 epoch, the cost of the batch: -334568.219
+105 batch/5 epoch, the cost of the batch: -333985.844
+110 batch/5 epoch, the cost of the batch: -336841.688
+115 batch/5 epoch, the cost of the batch: -331634.875
+cost after 5 epoch: -646.540
+val cost after 5 epoch: -121.787
+val SDR is 7.720, SIR is 11.529, SAR is 10.454
+5 batch/6 epoch, the cost of the batch: -335428.906
+10 batch/6 epoch, the cost of the batch: -334928.250
+15 batch/6 epoch, the cost of the batch: -335084.594
+20 batch/6 epoch, the cost of the batch: -336577.656
+25 batch/6 epoch, the cost of the batch: -339453.812
+30 batch/6 epoch, the cost of the batch: -338436.906
+35 batch/6 epoch, the cost of the batch: -341100.375
+40 batch/6 epoch, the cost of the batch: -336203.688
+45 batch/6 epoch, the cost of the batch: -339732.156
+50 batch/6 epoch, the cost of the batch: -338574.719
+55 batch/6 epoch, the cost of the batch: -341097.969
+60 batch/6 epoch, the cost of the batch: -337219.906
+65 batch/6 epoch, the cost of the batch: -342520.375
+70 batch/6 epoch, the cost of the batch: -335237.250
+75 batch/6 epoch, the cost of the batch: -343319.750
+80 batch/6 epoch, the cost of the batch: -338589.219
+85 batch/6 epoch, the cost of the batch: -346262.156
+90 batch/6 epoch, the cost of the batch: -341651.562
+95 batch/6 epoch, the cost of the batch: -348765.219
+100 batch/6 epoch, the cost of the batch: -347952.188
+105 batch/6 epoch, the cost of the batch: -345358.875
+110 batch/6 epoch, the cost of the batch: -348264.125
+115 batch/6 epoch, the cost of the batch: -345265.500
+cost after 6 epoch: -671.395
+val cost after 6 epoch: -124.398
+val SDR is 7.757, SIR is 11.638, SAR is 10.432
+5 batch/7 epoch, the cost of the batch: -349113.344
+10 batch/7 epoch, the cost of the batch: -349631.812
+15 batch/7 epoch, the cost of the batch: -348414.094
+20 batch/7 epoch, the cost of the batch: -348692.625
+25 batch/7 epoch, the cost of the batch: -351493.000
+30 batch/7 epoch, the cost of the batch: -348044.969
+35 batch/7 epoch, the cost of the batch: -350768.312
+40 batch/7 epoch, the cost of the batch: -345771.500
+45 batch/7 epoch, the cost of the batch: -343356.250
+50 batch/7 epoch, the cost of the batch: -342733.500
+55 batch/7 epoch, the cost of the batch: -346395.188
+60 batch/7 epoch, the cost of the batch: -343505.438
+65 batch/7 epoch, the cost of the batch: -350438.500
+70 batch/7 epoch, the cost of the batch: -343924.375
+75 batch/7 epoch, the cost of the batch: -351950.719
+80 batch/7 epoch, the cost of the batch: -347070.625
+85 batch/7 epoch, the cost of the batch: -354945.594
+90 batch/7 epoch, the cost of the batch: -350207.438
+95 batch/7 epoch, the cost of the batch: -356977.250
+100 batch/7 epoch, the cost of the batch: -356422.875
+105 batch/7 epoch, the cost of the batch: -353733.906
+110 batch/7 epoch, the cost of the batch: -356929.688
+115 batch/7 epoch, the cost of the batch: -354000.031
+cost after 7 epoch: -689.492
+val cost after 7 epoch: -124.630
+val SDR is 7.729, SIR is 11.718, SAR is 10.323
+5 batch/8 epoch, the cost of the batch: -357612.344
+10 batch/8 epoch, the cost of the batch: -358003.938
+15 batch/8 epoch, the cost of the batch: -356978.344
+20 batch/8 epoch, the cost of the batch: -357306.906
+25 batch/8 epoch, the cost of the batch: -360698.375
+30 batch/8 epoch, the cost of the batch: -358212.312
+35 batch/8 epoch, the cost of the batch: -360802.188
+40 batch/8 epoch, the cost of the batch: -354728.938
+45 batch/8 epoch, the cost of the batch: -357639.750
+50 batch/8 epoch, the cost of the batch: -356947.312
+55 batch/8 epoch, the cost of the batch: -358481.438
+60 batch/8 epoch, the cost of the batch: -354467.125
+65 batch/8 epoch, the cost of the batch: -356554.969
+70 batch/8 epoch, the cost of the batch: -347852.219
+75 batch/8 epoch, the cost of the batch: -356516.656
+80 batch/8 epoch, the cost of the batch: -352754.562
+85 batch/8 epoch, the cost of the batch: -361807.062
+90 batch/8 epoch, the cost of the batch: -356619.312
+95 batch/8 epoch, the cost of the batch: -364210.125
+100 batch/8 epoch, the cost of the batch: -363417.406
+105 batch/8 epoch, the cost of the batch: -360136.000
+110 batch/8 epoch, the cost of the batch: -363629.875
+115 batch/8 epoch, the cost of the batch: -359473.906
+cost after 8 epoch: -705.900
+val cost after 8 epoch: -111.518
+val SDR is 7.600, SIR is 11.630, SAR is 10.174
+5 batch/9 epoch, the cost of the batch: -363612.469
+10 batch/9 epoch, the cost of the batch: -364131.688
+15 batch/9 epoch, the cost of the batch: -362348.906
+20 batch/9 epoch, the cost of the batch: -363053.969
+25 batch/9 epoch, the cost of the batch: -366596.000
+30 batch/9 epoch, the cost of the batch: -364945.188
+35 batch/9 epoch, the cost of the batch: -367213.938
+40 batch/9 epoch, the cost of the batch: -361154.500
+45 batch/9 epoch, the cost of the batch: -363763.094
+50 batch/9 epoch, the cost of the batch: -363398.062
+55 batch/9 epoch, the cost of the batch: -364886.781
+60 batch/9 epoch, the cost of the batch: -360693.469
+65 batch/9 epoch, the cost of the batch: -365185.062
+70 batch/9 epoch, the cost of the batch: -357642.938
+75 batch/9 epoch, the cost of the batch: -365365.438
+80 batch/9 epoch, the cost of the batch: -360526.562
+85 batch/9 epoch, the cost of the batch: -368187.875
+90 batch/9 epoch, the cost of the batch: -362540.938
+95 batch/9 epoch, the cost of the batch: -370052.438
+100 batch/9 epoch, the cost of the batch: -368963.125
+105 batch/9 epoch, the cost of the batch: -365789.688
+110 batch/9 epoch, the cost of the batch: -369243.531
+115 batch/9 epoch, the cost of the batch: -365833.500
+cost after 9 epoch: -718.688
+val cost after 9 epoch: -119.175
+val SDR is 7.634, SIR is 11.756, SAR is 10.136
+5 batch/10 epoch, the cost of the batch: -369533.062
+10 batch/10 epoch, the cost of the batch: -369859.188
+15 batch/10 epoch, the cost of the batch: -368816.625
+20 batch/10 epoch, the cost of the batch: -368643.875
+25 batch/10 epoch, the cost of the batch: -371815.875
+30 batch/10 epoch, the cost of the batch: -369999.375
+35 batch/10 epoch, the cost of the batch: -372092.250
+40 batch/10 epoch, the cost of the batch: -366036.500
+45 batch/10 epoch, the cost of the batch: -368322.375
+50 batch/10 epoch, the cost of the batch: -368207.812
+55 batch/10 epoch, the cost of the batch: -369445.562
+60 batch/10 epoch, the cost of the batch: -365496.875
+65 batch/10 epoch, the cost of the batch: -371068.188
+70 batch/10 epoch, the cost of the batch: -363520.812
+75 batch/10 epoch, the cost of the batch: -370847.375
+80 batch/10 epoch, the cost of the batch: -366277.562
+85 batch/10 epoch, the cost of the batch: -374038.750
+90 batch/10 epoch, the cost of the batch: -368041.688
+95 batch/10 epoch, the cost of the batch: -375855.750
+100 batch/10 epoch, the cost of the batch: -374353.625
+105 batch/10 epoch, the cost of the batch: -368566.625
+110 batch/10 epoch, the cost of the batch: -372603.938
+115 batch/10 epoch, the cost of the batch: -370182.812
+cost after 10 epoch: -728.864
+val cost after 10 epoch: -109.738
+val SDR is 7.535, SIR is 11.720, SAR is 10.001
+5 batch/11 epoch, the cost of the batch: -373705.000
+10 batch/11 epoch, the cost of the batch: -374325.688
+15 batch/11 epoch, the cost of the batch: -373713.594
+20 batch/11 epoch, the cost of the batch: -373762.281
+25 batch/11 epoch, the cost of the batch: -377472.562
+30 batch/11 epoch, the cost of the batch: -375077.250
+35 batch/11 epoch, the cost of the batch: -377277.688
+40 batch/11 epoch, the cost of the batch: -371116.125
+45 batch/11 epoch, the cost of the batch: -373317.625
+50 batch/11 epoch, the cost of the batch: -373110.969
+55 batch/11 epoch, the cost of the batch: -374098.250
+60 batch/11 epoch, the cost of the batch: -368774.688
+65 batch/11 epoch, the cost of the batch: -374236.375
+70 batch/11 epoch, the cost of the batch: -367334.125
+75 batch/11 epoch, the cost of the batch: -374996.156
+80 batch/11 epoch, the cost of the batch: -370521.781
+85 batch/11 epoch, the cost of the batch: -378348.812
+90 batch/11 epoch, the cost of the batch: -372430.125
+95 batch/11 epoch, the cost of the batch: -379991.750
+100 batch/11 epoch, the cost of the batch: -378308.312
+105 batch/11 epoch, the cost of the batch: -374299.719
+110 batch/11 epoch, the cost of the batch: -378387.375
+115 batch/11 epoch, the cost of the batch: -374891.938
+cost after 11 epoch: -738.021
+val cost after 11 epoch: -104.356
+val SDR is 7.509, SIR is 11.723, SAR is 9.959
+5 batch/12 epoch, the cost of the batch: -378267.875
+10 batch/12 epoch, the cost of the batch: -378706.250
+15 batch/12 epoch, the cost of the batch: -373410.344
+20 batch/12 epoch, the cost of the batch: -373760.656
+25 batch/12 epoch, the cost of the batch: -378616.406
+30 batch/12 epoch, the cost of the batch: -375262.188
+35 batch/12 epoch, the cost of the batch: -378188.312
+40 batch/12 epoch, the cost of the batch: -372863.219
+45 batch/12 epoch, the cost of the batch: -375465.812
+50 batch/12 epoch, the cost of the batch: -375889.438
+55 batch/12 epoch, the cost of the batch: -377199.750
+60 batch/12 epoch, the cost of the batch: -373330.562
+65 batch/12 epoch, the cost of the batch: -378538.438
+70 batch/12 epoch, the cost of the batch: -371535.312
+75 batch/12 epoch, the cost of the batch: -379132.750
+80 batch/12 epoch, the cost of the batch: -374353.688
+85 batch/12 epoch, the cost of the batch: -381686.438
+90 batch/12 epoch, the cost of the batch: -375769.000
+95 batch/12 epoch, the cost of the batch: -383656.750
+100 batch/12 epoch, the cost of the batch: -382008.688
+105 batch/12 epoch, the cost of the batch: -378417.250
+110 batch/12 epoch, the cost of the batch: -382265.625
+115 batch/12 epoch, the cost of the batch: -378608.688
+cost after 12 epoch: -743.742
+val cost after 12 epoch: -103.125
+val SDR is 7.479, SIR is 11.732, SAR is 9.904
+5 batch/13 epoch, the cost of the batch: -381357.250
+10 batch/13 epoch, the cost of the batch: -382133.188
+15 batch/13 epoch, the cost of the batch: -381177.531
+20 batch/13 epoch, the cost of the batch: -381133.406
+25 batch/13 epoch, the cost of the batch: -384878.250
+30 batch/13 epoch, the cost of the batch: -382360.000
+35 batch/13 epoch, the cost of the batch: -384341.938
+40 batch/13 epoch, the cost of the batch: -377780.500
+45 batch/13 epoch, the cost of the batch: -379773.812
+50 batch/13 epoch, the cost of the batch: -380257.625
+55 batch/13 epoch, the cost of the batch: -381136.969
+60 batch/13 epoch, the cost of the batch: -376936.500
+65 batch/13 epoch, the cost of the batch: -382469.375
+70 batch/13 epoch, the cost of the batch: -374992.938
+75 batch/13 epoch, the cost of the batch: -382549.938
+80 batch/13 epoch, the cost of the batch: -377899.875
+85 batch/13 epoch, the cost of the batch: -385165.000
+90 batch/13 epoch, the cost of the batch: -378893.062
+95 batch/13 epoch, the cost of the batch: -386799.625
+100 batch/13 epoch, the cost of the batch: -384755.500
+105 batch/13 epoch, the cost of the batch: -381043.000
+110 batch/13 epoch, the cost of the batch: -385424.562
+115 batch/13 epoch, the cost of the batch: -381477.094
+cost after 13 epoch: -752.200
+val cost after 13 epoch: -91.935
+val SDR is 7.390, SIR is 11.635, SAR is 9.827
+5 batch/14 epoch, the cost of the batch: -384281.188
+10 batch/14 epoch, the cost of the batch: -384927.844
+15 batch/14 epoch, the cost of the batch: -384035.562
+20 batch/14 epoch, the cost of the batch: -383039.750
+25 batch/14 epoch, the cost of the batch: -386947.312
+30 batch/14 epoch, the cost of the batch: -384924.969
+35 batch/14 epoch, the cost of the batch: -387001.094
+40 batch/14 epoch, the cost of the batch: -380507.750
+45 batch/14 epoch, the cost of the batch: -382830.812
+50 batch/14 epoch, the cost of the batch: -382280.438
+55 batch/14 epoch, the cost of the batch: -383071.812
+60 batch/14 epoch, the cost of the batch: -379285.562
+65 batch/14 epoch, the cost of the batch: -383922.750
+70 batch/14 epoch, the cost of the batch: -376244.438
+75 batch/14 epoch, the cost of the batch: -384355.031
+80 batch/14 epoch, the cost of the batch: -379304.625
+85 batch/14 epoch, the cost of the batch: -387089.375
+90 batch/14 epoch, the cost of the batch: -381263.719
+95 batch/14 epoch, the cost of the batch: -389359.188
+100 batch/14 epoch, the cost of the batch: -387528.562
+105 batch/14 epoch, the cost of the batch: -384075.469
+110 batch/14 epoch, the cost of the batch: -388322.969
+115 batch/14 epoch, the cost of the batch: -384548.188
+cost after 14 epoch: -757.061
+val cost after 14 epoch: -84.327
+val SDR is 7.321, SIR is 11.576, SAR is 9.758
+5 batch/15 epoch, the cost of the batch: -387134.438
+10 batch/15 epoch, the cost of the batch: -387663.875
+15 batch/15 epoch, the cost of the batch: -386651.562
+20 batch/15 epoch, the cost of the batch: -386611.438
+25 batch/15 epoch, the cost of the batch: -390290.500
+30 batch/15 epoch, the cost of the batch: -387685.844
+35 batch/15 epoch, the cost of the batch: -389890.156
+40 batch/15 epoch, the cost of the batch: -383188.531
+45 batch/15 epoch, the cost of the batch: -385076.188
+50 batch/15 epoch, the cost of the batch: -385655.500
+55 batch/15 epoch, the cost of the batch: -386461.469
+60 batch/15 epoch, the cost of the batch: -382272.500
+65 batch/15 epoch, the cost of the batch: -387629.094
+70 batch/15 epoch, the cost of the batch: -380169.875
+75 batch/15 epoch, the cost of the batch: -387592.625
+80 batch/15 epoch, the cost of the batch: -382650.094
+85 batch/15 epoch, the cost of the batch: -390362.875
+90 batch/15 epoch, the cost of the batch: -383806.500
+95 batch/15 epoch, the cost of the batch: -392159.062
+100 batch/15 epoch, the cost of the batch: -389760.500
+105 batch/15 epoch, the cost of the batch: -386223.312
+110 batch/15 epoch, the cost of the batch: -390844.375
+115 batch/15 epoch, the cost of the batch: -387022.375
+cost after 15 epoch: -762.757
+val cost after 15 epoch: -85.777
+val SDR is 7.349, SIR is 11.686, SAR is 9.731
+5 batch/16 epoch, the cost of the batch: -389668.750
+10 batch/16 epoch, the cost of the batch: -390485.938
+15 batch/16 epoch, the cost of the batch: -389336.219
+20 batch/16 epoch, the cost of the batch: -388800.062
+25 batch/16 epoch, the cost of the batch: -392436.938
+30 batch/16 epoch, the cost of the batch: -389989.062
+35 batch/16 epoch, the cost of the batch: -392041.031
+40 batch/16 epoch, the cost of the batch: -385782.875
+45 batch/16 epoch, the cost of the batch: -387476.500
+50 batch/16 epoch, the cost of the batch: -388167.562
+55 batch/16 epoch, the cost of the batch: -388719.156
+60 batch/16 epoch, the cost of the batch: -384560.250
+65 batch/16 epoch, the cost of the batch: -389715.594
+70 batch/16 epoch, the cost of the batch: -382547.812
+75 batch/16 epoch, the cost of the batch: -389934.500
+80 batch/16 epoch, the cost of the batch: -385112.875
+85 batch/16 epoch, the cost of the batch: -392232.000
+90 batch/16 epoch, the cost of the batch: -385742.906
+95 batch/16 epoch, the cost of the batch: -393743.312
+100 batch/16 epoch, the cost of the batch: -391706.312
+105 batch/16 epoch, the cost of the batch: -387327.406
+110 batch/16 epoch, the cost of the batch: -391791.438
+115 batch/16 epoch, the cost of the batch: -388341.344
+cost after 16 epoch: -766.959
+val cost after 16 epoch: -87.718
+val SDR is 7.328, SIR is 11.721, SAR is 9.672
